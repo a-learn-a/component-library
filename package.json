@@ -34,5 +34,8 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "tslib": "^2.4.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/a-learn-a"
   }
 }
